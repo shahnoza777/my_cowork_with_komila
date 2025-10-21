@@ -1,4 +1,6 @@
-h1{
-    text-shadow: 4px 4px grey;
-    color: aqua;
+.text{
+    color: blue;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
 }
